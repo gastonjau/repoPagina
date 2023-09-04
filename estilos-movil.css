@@ -1,0 +1,180 @@
+.oculto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+.oculto > p{
+    width: 120px;
+}
+.imagentennis{
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    margin-left: 100px;
+}
+.imagendiv{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 250px;
+}
+.imagenes1{
+    display: flex;
+    padding: 0px;
+    margin-left: 5%;
+}
+.divImg{
+    padding: 0px;
+    display: flex;
+    align-items: start;
+    justify-content:start;
+    margin-right:10%;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.imagentextoimg{
+    display: flex;
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+.buttonStyle{
+    margin-right: 70px;
+    margin-top: 0px;
+}
+
+.containceleste{
+    background-color: #8B48BF;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 96%;
+}
+.letra1{
+    text-align: center;
+    display: flex;
+    padding-left: 100px;
+}
+.conquista{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: end;
+}
+.descripcion{
+    width: 350px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    width: 400px;
+}
+.elnumero3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.mask{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.colorParrafo{
+    width: 200px;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+.imagenredonda{
+    padding: 0px;
+    margin: 0px;
+}
+.control{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+.otro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boton1{
+    display: none;
+}
+.boton2{
+    display: flex;
+    
+}
+.ordenarBoton{
+    display: flex;
+    margin-left: 65px;
+}
+.containceleste2{
+    background-color: #8B48BF;
+    width: 93%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.centrarget{
+    width: 400px;
+}
+
+.back3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.backing{
+    background-color: rgba(30, 30, 38, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+}
+
+.copyrightgas{
+    display: none;
+}
+.reverse{
+    display: flex;
+    align-items:end;
+    justify-content:start;
+    flex-direction: column-reverse;
+}
+
+.doblebacking{
+    width: 100%;
+    background-color:rgba(30, 30, 38, 1) ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.input1{
+    display: none;
+}
+.buttonStyle3{
+    display: none;
+}
+.presente{
+    display: flex;
+}

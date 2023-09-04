@@ -1,0 +1,36 @@
+.centrando{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: column;
+
+}
+.imagentennis{
+    width: 270px;
+    padding-right:  20px;
+}
+.buttonStyle{
+    font-size: 20px;
+    padding: 10 25px;
+}
+.doblebacking{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    
+
+}
+.footer1{
+    padding-left: 250px;
+
+}
+
+.containceleste{
+    background-color: #8B48BF ;
+    width: 97%;
+}
+.containceleste2{
+    background-color: #8B48BF ;
+    width: 96%;
+}
