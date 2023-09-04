@@ -274,3 +274,16 @@ footer > ul > li  {
 .buttonStyle3{
     display: flex;
 }
+.barra{
+    display: none;
+}
+.barra1{
+    padding-top: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(30, 30, 38, 1);
+    width: 100%;
+    padding-bottom: 30px;
+}
